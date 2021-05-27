@@ -86,9 +86,6 @@ button .active {
   flex-direction: column;
 }
 
-.time-menu {
-  /* background-color: #ffafaf;  */
-}
 
 .player-container {
   /* background-color: #afafff; */
@@ -105,9 +102,7 @@ button .active {
   bottom: 10%;
 }
 
-.audio-menu {
-  /* background-color: #afffaf;  */
-}
+
 
 .playPause {
   width: 40px;
